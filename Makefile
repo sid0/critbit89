@@ -3,7 +3,7 @@
 # Written by Jonas Gehring <jonas@jgehring.net>
 #
 
-CFLAGS = -Wall -std=c89 -pedantic -g
+CFLAGS = -Wall -std=c89 -pedantic -g -O3
 LIBS = 
 #CC = gcc
 #CFLAGS += -fprofile-arcs -ftest-coverage
